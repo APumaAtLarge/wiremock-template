@@ -1,0 +1,8 @@
+{
+"code": 0,
+"message": "success",
+"data": {
+  "name": "wiremock",
+  "version": "3.x"
+}
+}
